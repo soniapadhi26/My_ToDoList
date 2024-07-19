@@ -199,9 +199,9 @@ body {
   background-color: bisque;
 }
 
-/* Media Queries */
 
-/* Phones */
+
+
 @media (max-width: 600px) {
   .main-container {
     padding: 1rem;
@@ -231,7 +231,7 @@ body {
   }
 }
 
-/* Tablets */
+
 @media (min-width: 601px) and (max-width: 1024px) {
   .main-container {
     padding: 1.5rem;
@@ -257,7 +257,7 @@ body {
   }
 }
 
-/* Laptops */
+
 @media (min-width: 1025px) {
   .main-container {
     padding: 2rem;
