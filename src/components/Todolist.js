@@ -6,6 +6,7 @@ function Todolist({ item, index, deleteItem, editItem, checkItem }) {
   };
 
   return (
+    <div>
     <li className={`list-item ${item.checked ? 'checked' : ''}`}>
       <span className={`task ${item.checked ? 'line-through' : ''}`}>
         {item.task}
@@ -28,6 +29,7 @@ function Todolist({ item, index, deleteItem, editItem, checkItem }) {
         />
       </span>
     </li>
+    </div>
   );
 }
 
