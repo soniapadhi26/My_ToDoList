@@ -17,7 +17,7 @@ Here’s a rephrased version:
 
 - React
 - CSS  
-- Local Storage 
+- JavaScript 
 
 ### Installation
 
