@@ -27,7 +27,7 @@ Here’s a rephrased version:
     ```
 2. Navigate to the project directory
     ```bash
-    cd todo-list-app
+    cd todolist
     ```
 3. Install the dependencies
     ```bash
