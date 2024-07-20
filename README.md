@@ -15,8 +15,8 @@ Here’s a rephrased version:
 
 ## Technologies Used
 
-- React
-- CSS  
+- React.js
+- HTML/CSS 
 - JavaScript 
 
 ### Installation
