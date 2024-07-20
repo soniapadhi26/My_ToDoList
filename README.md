@@ -16,8 +16,7 @@ Here’s a rephrased version:
 ## Technologies Used
 
 - React
-- CSS 
-- Font Awesome 
+- CSS  
 - Local Storage 
 
 ### Installation
